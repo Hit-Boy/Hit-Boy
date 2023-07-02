@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there 
 
+I am Dan Frolov. Currently studying in Saxion University. Love coding and anything complicated like math and physics. I am passionate about creating working solutions.
+
+Skilled in C++, C#, JS, HTML, CSS
 <!--
 **Hit-Boy/Hit-Boy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
