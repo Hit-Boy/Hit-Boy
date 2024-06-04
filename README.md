@@ -1,6 +1,6 @@
 ### Hi there 
 ![Screenshot_2](https://github.com/Hit-Boy/Hit-Boy/assets/24712763/4d4e8718-c1a1-4345-9257-bace703588e9)
-I am Dan Frolov. Currently studying in Saxion University. Love coding and anything complicated like math and physics. I am passionate about creating working solutions. I has worked at Entweder - venture company developing website for the company. In there i was responsible for many different algorithmes, 3d Rendering and general logic.
+I am Dan Frolov. Currently studying in Saxion University. Love coding and anything complicated like math and physics. I am passionate about creating working solutions. I have worked at Entweder - venture company developing website for the company. In there i was responsible for many different algorithmes, 3d Rendering and general logic.
 
 Skilled in C++, C#, JS, HTML, CSS
 
