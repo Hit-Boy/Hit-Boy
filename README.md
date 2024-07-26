@@ -1,4 +1,4 @@
-### Hi there 
+### Hello there 
 ![Screenshot_2](https://github.com/Hit-Boy/Hit-Boy/assets/24712763/4d4e8718-c1a1-4345-9257-bace703588e9)
 I am Dan Frolov. Currently studying in Saxion University. Love coding and anything complicated like math and physics. I am passionate about creating interesting out of the box working solutions that involve a lot of researching and brainstorming.
 
